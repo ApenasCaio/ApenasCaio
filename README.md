@@ -31,9 +31,6 @@
   <a href="https://www.linkedin.com/in/caio-menin-875026306" target="_blank">
     <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
-  <a href="contatocaiomenin@gmail.com">
-    <img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail"/>
-  </a>
   <a href="https://discord.com/users/374293681143939094" target="_blank">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord"/>
   </a>
